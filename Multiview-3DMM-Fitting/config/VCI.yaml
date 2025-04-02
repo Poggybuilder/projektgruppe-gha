@@ -1,0 +1,17 @@
+image_folder: 'VCI/preprocessing_output/head01/images'
+camera_folder: 'VCI/preprocessing_output/head01/cameras'
+landmark_folder: 'VCI/preprocessing_output/head01/landmarks'
+param_folder: 'VCI/preprocessing_output/head01/params'
+visualization_folder: 'VCI/preprocessing_masks'
+use_masks: True
+gpu_id: 0
+camera_ids: ['0000', '0004', '0007', '0010',
+             '0012', '0016', '0018', '0020',
+             '0025', '0029', '0034', '0038',
+             '0039', '1001', '1002', '1005']
+image_size: 2048
+face_model: 'BFM'
+reg_id_weight: 1e-7
+reg_exp_weight: 1e-7
+save_vertices: True
+visualize: False

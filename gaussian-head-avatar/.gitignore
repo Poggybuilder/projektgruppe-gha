@@ -1,0 +1,9 @@
+
+
+checkpoints
+checkpoints/*
+mini_demo_dataset
+mini_demo_dataset/*
+
+
+**/__pycache__/

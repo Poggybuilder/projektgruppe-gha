@@ -1,0 +1,33 @@
+==== Starte mit Config "config/VCI.yaml"
+==== CUDA Device ist:  cuda:0
+==== Fitter wird gestartet
+
+Optimizer:	Adam (
+Parameter Group 0
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    eps: 1e-08
+    foreach: None
+    lr: 0.001
+    maximize: False
+    weight_decay: 0
+
+Parameter Group 1
+    amsgrad: False
+    betas: (0.9, 0.999)
+    capturable: False
+    eps: 1e-08
+    foreach: None
+    lr: 0.01
+    maximize: False
+    weight_decay: 0
+)
+
+==== Training läuft
+
+Loss:  [659.970642]     	   Prev:  [100000000.000000]     	   PPrev:  [100000000.000000]     
+Loss:  [974.606262]     	   Prev:  [1872.555176]     	   PPrev:  [1879.839722]     
+Loss:  [985.309082]     	   Prev:  [965.974182]     	   PPrev:  [950.847595]     
+Loss:  [1119.092773]     	   Prev:  [1121.294800]     	   PPrev:  [1123.516846]     
+Loss:  [1010.826782]     	   Prev:  [1012.110779]     	   PPrev:  [1013.417419]     
