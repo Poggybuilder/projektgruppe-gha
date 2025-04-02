@@ -2,7 +2,7 @@
 # Helfer-Skripte
 
 
-## `NeRSemble_to_VCI/`
+## NeRSemble_to_VCI
 
 Das Skript wurde verwendet, um _NeRSemble_-Daten inklusiver Kameraparameter in das Format der _VCI_-Daten inklusive `calibration_dome.json` umzuwandeln.
 
@@ -12,7 +12,7 @@ Nach der Transformierung liegen die `calibration_dome.json` in `camera_params/` 
 Die `gha`-Environment ist ausreichend, um das Skript auszuführen.
 
 
-## `Visualizer`
+## Visualizer
 
 In diesem Ordner befinden sich einige Skripte, welche verwendet wurden, um Teile des Projektes zu visualisieren.
 Um die Skripte zu verwenden, muss eine Environment anhand der dort gegebenen `requirements.txt`-Datei aufgesetzt werden.
